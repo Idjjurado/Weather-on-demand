@@ -1,6 +1,6 @@
 # Weather dashboard!!
 
-link: 
+link: https://idjjurado.github.io/Weather-on-demand/
 
 ## Description
 As an individual that likes to take trips and or someone that likes to plan ahead, I need to know what the weather is going to be like to the locations I am traveling! With this dashboard I will be able to see a forecast for the city that I am searching!
@@ -9,10 +9,10 @@ As an individual that likes to take trips and or someone that likes to plan ahea
 Necesssity to map out the forecast for cities I will be traveling to or that I am currently residing/visiting!
 
 ### HOME PAGE!
-
-### Searching for city!
+![dashboard](Assets/weatherdash.png)
 
 ### Recents saved!
+![recent cities](Assets/recents.png)
 
 These are the main screenshots of how the app should be presented and used!
 
@@ -25,9 +25,6 @@ We ended up using quite a few different things!
 
 ## Credit
 Ismael Jimenez: https://github.com/Idjjurado
-
-(search functionality assistance)
-Simon Ugorji https://blog.bitsrc.io/how-to-construct-a-url-search-query-with-javascript-935188eb33e9
 
 ## License
 MIT License (see repo)
