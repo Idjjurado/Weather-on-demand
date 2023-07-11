@@ -20,8 +20,7 @@ These are the main screenshots of how the app should be presented and used!
 We ended up using quite a few different things!
 - Jquery, Bootstrap, HTML, CSS, and JavaScript as well!
 - APIs we used were as follows
-  - https://rapidapi.com/thecocktaildb/api/themealdb/
-  - https://rapidapi.com/brian.rofiq/api/anime-db
+  - https://openweathermap.org/api
 
 ## Credit
 Ismael Jimenez: https://github.com/Idjjurado
